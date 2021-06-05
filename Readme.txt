@@ -1,5 +1,5 @@
 -----Two Body Simulator-----
-Oğuzhan
+Oğuzhan 270201036
 Töre
 Birol
 Kutay Özbay 270201017
