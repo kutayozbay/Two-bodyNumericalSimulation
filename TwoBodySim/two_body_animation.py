@@ -17,7 +17,7 @@ class TwoBodyView:
         screen.blit(planet2Img, (x2, y2))
 
     def animation(self, fname):
-        # Inıtialize the pygame
+        # Initialize the pygame
         pygame.init()
 
         # Create the screen
